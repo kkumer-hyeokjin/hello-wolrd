@@ -1,5 +1,4 @@
 # hello-wolrd
-Just another repository
 
 Hi Humans!
 
